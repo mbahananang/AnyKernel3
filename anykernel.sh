@@ -4,7 +4,7 @@
 ### AnyKernel setup
 # global properties
 properties() { '
-kernel.string=Silver Wolf kernel by Kyozune
+kernel.string=Fanxing kernel by iConnanT
 do.devicecheck=1
 no_magisk_check=1
 do.modules=0
