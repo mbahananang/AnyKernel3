@@ -4,7 +4,7 @@
 ### AnyKernel setup
 # global properties
 properties() { '
-kernel.string=Fanxing kernel by iConnanT
+kernel.string=He-Fanxing kernel by iConnanT
 do.devicecheck=1
 no_magisk_check=1
 do.modules=0
